@@ -9,6 +9,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor 🤯
 * Trabajo colaborativo para aprender y enseñarselos a mis compañeros 😹
 * Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Como recordatorio **Aprender más y leerme el libro completo de Git que tengo pendiente** 😦
 
